@@ -1,12 +1,15 @@
 # Matplotlib Overview Lecture
+---
 A quick introduction to git using an example
 
 ## <u> Setup Project Folder </u>
 ### Command listing
+```
 pwd
 mkdir projects
 cd projects
 pwd
+```
 
 ## <u> Git Configuration </u>
 ### Command listing
